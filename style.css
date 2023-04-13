@@ -1,12 +1,16 @@
+@import url("styles/header.css");
+
 :root {
     --background-color: #EBECEE;
-
+    --white-principal: #FFFFFF;
+    --orange: #EB9B00;
+    --blue-gradient: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --font-principal: 'Poppins', sans-serif;
 }
 
 body {
     background-color: var(--background-color);
-}
-
-h1 {
-    background-color: blue;
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
