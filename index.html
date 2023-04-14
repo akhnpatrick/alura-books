@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@200;300;400;500;600;700&family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -49,5 +50,53 @@
         <p class="text__banner">Encontre em nossa estante o que precisa para seu desenvolvimento!</p>
         <input type="search" class="search__banner" placeholder="Qual será sua próxima leitura?">
     </section>
+
+    <section class="carousel">
+        <h2 class="carousel__title">ÚLTIMOS LANÇAMENTOS</h2>
+        <!-- Slider main container -->
+<div class="swiper">
+    <!-- Additional required wrapper -->
+    <!-- If we need pagination -->
+    <div class="swiper-pagination"></div>
+
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      <div class="swiper-slide"><img src="img/Guia Front-end.svg" alt="Capa de um livro sobre Guia de inicialização no Front-End"></div>
+      <div class="swiper-slide"><img src="img/Gestão2.svg" alt="Capa de um livro sobre Gestão de TI - Segunda Edição"></div>
+      <div class="swiper-slide"><img src="img/Angular.svg" alt="Capa de um livro sobre Angular"></div>
+      <div class="swiper-slide"><img src="img/Liderança.svg" alt="Capa de um livro sobre Liderança em TI"></div>
+      <div class="swiper-slide"><img src="img/ApacheKafka.svg" alt="Capa de um livro sobre ApacheKafka"></div>
+      <div class="swiper-slide"><img src="img/Portugol.svg" alt="Capa de um livro sobre Portugol"></div>
+      <div class="swiper-slide"><img src="img/Tuning.svg" alt="Capa de um livro sobre Tuning"></div>
+      <div class="swiper-slide"><img src="img/Javascript.svg" alt="Capa de um livro sobre Javascript"></div>
+      <div class="swiper-slide"><img src="img/Arquitetura.svg" alt="Capa de um livro sobre Arquitetura"></div>
+      <div class="swiper-slide"><img src="img/Nodejs.svg" alt="Capa de um livro sobre Nodejs"></div>
+      <div class="swiper-slide"><img src="img/Gestão.svg" alt="Capa de um livro sobre"></div>
+      <div class="swiper-slide"><img src="img/MetricasAgeis.svg" alt="Capa de um livro sobre Metricas-Ageis no TI"></div>
+      <div class="swiper-slide"><img src="img/Construct2.svg" alt="Capa de um livro sobre Construct2"></div>
+      <div class="swiper-slide"><img src="img/UX.svg" alt="Capa de um livro sobre UX Desing"></div>
+      <div class="swiper-slide"><img src="img/Acessibilidade.svg" alt="Capa de um livro sobre Acessibilidade na Web e Softwares"></div>
+      <div class="swiper-slide"><img src="img/Angular.svg" alt=""></div>
+    </div>
+    
+  
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+    </section>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <script>
+        const swiper = new Swiper('.swiper', {
+        spaceBetween: 13,
+        slidesPerView: 3,
+        pagination: {
+            el: '.swiper-pagination',
+            type: 'bullets',
+        },
+        });
+    </script>
 </body>
 </html>
