@@ -25,6 +25,7 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
+    gap: 1.5em;
 }
 
 .buttons__card {
@@ -69,4 +70,8 @@
     color: var(--white-principal);
     font-weight: 700;
     text-decoration: none;
+}
+
+.image_star {
+    margin-bottom: 0.5em;
 }
