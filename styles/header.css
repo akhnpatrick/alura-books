@@ -110,4 +110,13 @@
    .container {
         gap: 0.7em;
    }
+
+   .menu__options:checked ~ .list-menu {
+        display: block;
+        width: auto;
+   }
+
+   .menu__options {
+        display: none;
+   }
 } 
