@@ -1,0 +1,9 @@
+hr {
+    margin: 0;
+}
+
+.finish {
+    background-color: var(--white-principal);
+    padding: 1.3em;
+    color: black;
+}
