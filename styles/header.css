@@ -57,6 +57,57 @@
     display: none;
 }
 
-@media screen and (min-width: 1024px) {
-    
+.container__title {
+    display: none;
 }
+
+.options {
+    display: none;
+}
+
+@media screen and (min-width: 1024px) {
+   .container__title,
+   .container__title--bold {
+        font-family: var(--secundary-font);
+        font-size: 30px;
+   } 
+
+   .container__title {
+        font-weight: 400;
+        display: block;
+   }
+
+   .container__title--bold {
+        font-weight: 700;
+   }
+
+   .options {
+        display: flex;
+   }
+
+   .item__options {
+    padding: 0 1em;
+    text-transform: uppercase;
+   }
+
+   .link__options {
+        text-decoration: none;
+        color: var(--black);
+   }
+
+   .container__img__heart {
+        display: none;
+   }
+
+   .header {
+        margin: 0 5em;
+   }
+
+   .header-menu__hamburguer {
+        display: none;
+   }
+
+   .container {
+        gap: 0.7em;
+   }
+} 

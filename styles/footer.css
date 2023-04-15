@@ -5,5 +5,5 @@ hr {
 .finish {
     background-color: var(--white-principal);
     padding: 1.3em;
-    color: black;
+    color: var(--black);
 }
