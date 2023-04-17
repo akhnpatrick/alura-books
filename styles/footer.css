@@ -7,3 +7,39 @@ hr {
     padding: 1.3em;
     color: var(--black);
 }
+
+.list__footer {
+    display: none;
+}
+
+@media screen and (min-width: 1024px) {
+    .finish {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .title__finish{
+        font-size: 24px;
+    }
+
+    .list__footer {
+        display: block;
+    }
+    
+    .title__list__footer {
+        color: var(--title-gray);
+        font-size: 14px;
+    }
+
+    .item__list_footer {
+        display: flex;
+        align-items: center;
+        margin: 1.1em 0;
+    }
+
+    .link__list__footer {
+        color: var(--gray);
+        text-decoration: none;
+        margin-left: 0.6em;
+    }
+}
