@@ -65,6 +65,10 @@
     display: none;
 }
 
+.text__container {
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
    .container__title,
    .container__title--bold {
@@ -84,7 +88,7 @@
    .options {
         display: flex;
    }
-
+   
    .item__options {
     padding: 0 1em;
     text-transform: uppercase;
@@ -100,7 +104,7 @@
    }
 
    .header {
-        margin: 0 5em;
+        padding: 0 5em;
    }
 
    .header-menu__hamburguer {
@@ -120,3 +124,23 @@
         display: none;
    }
 } 
+@media screen and (min-width: 1728px) {
+    .link__container {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--black);
+    }
+
+    .header {
+        padding: 0 3em;
+    }
+
+    .options {
+        margin-right: auto;
+    }
+
+    .text__container {
+        display: block;
+    }
+}
