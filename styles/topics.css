@@ -57,3 +57,14 @@
         font-size: 20px;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .topics {
+        display: none;
+    }
+
+    .topics__two {
+        display: block;
+        padding: 4em 23vw;
+    }
+}
