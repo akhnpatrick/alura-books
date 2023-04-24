@@ -7,6 +7,14 @@
     display: inline-block;
 }
 
+.container__botao:checked ~ .container__label > .header-menu__hamburguer {
+    background-image: url(../img/Menu\ Aberto.svg);
+}
+
+.container__botao:checked ~ .container__label{ 
+    background: var(--blue-gradient);
+}
+
 .header {
     background-color: var(--white-principal);
     display: flex;
@@ -108,7 +116,26 @@
         display: block;
         width: auto;
    }
+   
+   .menu__options:checked ~ .label__options > .item__options {
+    background: var(--blue-gradient);
+    color: var(--white-principal);
+   }
+
+   .item__options {
+    padding: 2em 1em;
+   }
+
+    .list-menu__item:hover {
+        background: var(--blue-gradient);
+    }
+
+    .list-menu__item:hover > .list-menu__link {
+        -webkit-text-fill-color: var(--white-principal);
+        text-decoration: none;
+    }
 } 
+
 @media screen and (min-width: 1728px) {
     .link__container {
         display: flex;
