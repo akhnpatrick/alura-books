@@ -108,6 +108,10 @@
          align-items: center;
     }
 
+    .carousel__title {
+        padding-top: 2.5em;
+    }
+
     .swiper-pagination {
         margin: 1em 0;
     }
