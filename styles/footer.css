@@ -43,3 +43,14 @@ hr {
         margin-left: 0.6em;
     }
 }
+
+@media  screen and (min-width: 1728px) {
+    .list__footer {
+        border-left: 1px solid var(--gray);
+        padding-left: 1em;
+    }
+
+    .finish {
+        padding: 3em 0;
+    }
+}
