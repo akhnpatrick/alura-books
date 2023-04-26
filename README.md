@@ -3,9 +3,9 @@
 **O Alura Books é um projeto de uma loja online especializada em livros sobre tecnologia e programação. Com um catálogo abrangente e atualizado, o projeto oferece aos usuários uma seleção cuidadosa dos melhores livros do mercado, com destaque para as tendências e inovações em cada área.**
 
 ### Funcionalidades
-Navegação intuitiva e fácil de usar
-Seleção cuidadosamente escolhida de livros
-Catálogo abrangente e atualizado
+Navegação intuitiva e fácil de usar</br>
+Seleção cuidadosamente escolhida de livros</br>
+Catálogo abrangente e atualizado</br>
 Interface adaptada para todos os tipos de dispositivos
 
 ### Tecnologias utilizadas
