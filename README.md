@@ -25,6 +25,10 @@ Este projeto foi desenvolvido por **__@akhnpatrick__**.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Description in English - EN-us
 **Alura Books is a project for an online store specialized in books about technology and programming. With a comprehensive and up-to-date catalog, the project offers its users a careful selection of the best books on the market, with a focus on trends and innovations in each area.**
 
