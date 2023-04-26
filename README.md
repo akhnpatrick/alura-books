@@ -9,12 +9,15 @@ Catálogo abrangente e atualizado<br/>
 Interface adaptada para todos os tipos de dispositivos
 
 ### Tecnologias utilizadas
-HTML 5<br/>
-CSS 3<br/>
+HTML 5
+<br/>
+CSS 3
+<br/>
 Biblioteca Swiper Js
 
 ### Execução
-Para executar o projeto, acesse o link abaixo:<br/>
+Para executar o projeto, acesse o link abaixo:
+<br/>
 [Alura-Books](https://alura-books-tau-neon.vercel.app/)
 
 ### Licença
@@ -33,18 +36,24 @@ Este projeto foi desenvolvido por **__@akhnpatrick__**.
 **Alura Books is a project for an online store specialized in books about technology and programming. With a comprehensive and up-to-date catalog, the project offers its users a careful selection of the best books on the market, with a focus on trends and innovations in each area.**
 
 ### Features
-Intuitive and easy-to-use navigation<br/>
-Carefully selected book selection<br/>
-Comprehensive and up-to-date catalog<br/>
+Intuitive and easy-to-use navigation
+<br/>
+Carefully selected book selection
+<br/>
+Comprehensive and up-to-date catalog
+<br/>
 Interface adapted for all types of devices
 
 ### Technologies used
-HTML 5<br/>
-CSS 3<br/>
+HTML 5
+<br/>
+CSS 3
+<br/>
 Swiper Js library
 
 ### Execution
-To execute the project, access the link below:<br/>
+To execute the project, access the link below:
+<br/>
 [Alura-Books](https://alura-books-tau-neon.vercel.app/)
 
 ## License
