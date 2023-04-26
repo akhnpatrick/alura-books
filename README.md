@@ -15,18 +15,16 @@ Biblioteca Swiper Js
 
 ### Execução
 Para executar o projeto, acesse o link abaixo:
-[Alura-Books]()
+[Alura-Books](https://alura-books-tau-neon.vercel.app/)
 
 ### Licença
 Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo LICENSE.md
 
 ### Autor
 Este projeto foi desenvolvido por **__@akhnpatrick__**.
-
-
-
-
-# Alura Books
+<br/>
+<br/>
+<br/>
 ## Description in English - EN-us
 **Alura Books is a project for an online store specialized in books about technology and programming. With a comprehensive and up-to-date catalog, the project offers its users a careful selection of the best books on the market, with a focus on trends and innovations in each area.**
 
@@ -43,7 +41,7 @@ Swiper Js library
 
 ### Execution
 To execute the project, access the link below:
-[Alura-Books]()
+[Alura-Books](https://alura-books-tau-neon.vercel.app/)
 
 ## License
 This project is under the MIT license. For more information, see the LICENSE.md file.
