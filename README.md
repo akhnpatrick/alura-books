@@ -54,6 +54,6 @@ This project was developed by @akhnpatrick.
 
 
 ### Responsividade - Exemplos | Responsiveness - Examples
-![Projeto_Alura-Books-Desktop](C:\Users\patri\Projetos\alura-books\img\alurabooks-desktop.png)
-![Projeto_Alura-Books-Celular](C:\Users\patri\Projetos\alura-books\img\alurabooks-celular.png)
-![Projeto_Alura-Books-Tablet](C:\Users\patri\Projetos\alura-books\img\alurabooks-tablet.png)
+![Projeto_Alura-Books-Desktop](https://github.com/akhnpatrick/alura-books/blob/main/img/alurabooks-desktop.png)
+![Projeto_Alura-Books-Celular](https://github.com/akhnpatrick/alura-books/blob/main/img/alurabooks-celular.png)
+![Projeto_Alura-Books-Tablet](https://github.com/akhnpatrick/alura-books/blob/main/img/alurabooks-tablet.png)
